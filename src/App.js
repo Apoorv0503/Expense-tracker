@@ -12,7 +12,7 @@ const App = () => {
     const [expenses, setExpenses] = useState(DUMMY_EXPENSE);
 
     function fetchData(){
-        fetch('https://techgun.website/sample/api/read.php').then(
+        fetch('https://apoorv0503.github.io/Expense_API/mine.json').then(
             response => {
                 return response.json();
             }
