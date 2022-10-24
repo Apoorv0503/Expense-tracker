@@ -24,6 +24,7 @@ const App = () => {
         );
     }
 
+//     useEffect hook is used to maintain the state of the react application here it is used for maintaining fetch API.
     useEffect(()=>{
         fetchData();
     },[]);
