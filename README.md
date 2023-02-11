@@ -12,4 +12,6 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Apoorv0503/Expense-tracker/blob/main/Screenshots/React%20App%201.jpg?raw=true)
+![App Screenshot](https://drive.google.com/uc?id=1CmE0EFZiHAUFsT9ybi-oaJ9khBnywV58)
+
+
